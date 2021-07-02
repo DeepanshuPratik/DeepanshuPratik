@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Deepanshu Pratik</h1>
 <h3 align="center">Love to code (limitless). Passionate about coding!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepanshuPratik&label=Profile%20views&color=129e00&style=plastic" alt="DeepanshuPratik" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepanshuPratik&label=PROFILE+VIEWS%20&color=129e00&style=plastic" alt="DeepanshuPratik" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 👨‍💻 You can also check out my portfolio at [https://DeepanshuPratik.github.io/](https://DeepanshuPratik.github.io/)

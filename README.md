@@ -28,3 +28,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DeepanshuPratik&show_icons=true&locale=en&layout=compact" alt="DeepanshuPratik" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DeepanshuPratik&show_icons=true&locale=en" alt="DeepanshuPratik" /></p>
+
+![Deepanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepanshuPratik&count_private=true)
+
+

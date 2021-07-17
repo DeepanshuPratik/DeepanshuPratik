@@ -27,8 +27,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=DeepanshuPratik)](https://github.com/DeepanshuPratik/github-profile-trophy)
 
 <br>
-<a href="https://clist.by/" target="_blank">Have a look on currently running contests</a>
+<h3 align="center"><a href="https://clist.by/" target="_blank">...Have a look on currently running contests...</a></h3>
 <br>
+<br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DeepanshuPratik&show_icons=true&locale=en&layout=compact" alt="DeepanshuPratik" /></p>
 <br>
 <br>

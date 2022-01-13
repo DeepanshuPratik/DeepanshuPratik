@@ -32,10 +32,14 @@
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DeepanshuPratik&show_icons=true&locale=en&layout=compact" alt="DeepanshuPratik" /></p>
-<br>
-<br>
+</br>
+</br>
 
-
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeepanshuPratik&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)](https://git.io/streak-stats)
+ </br>
 ![Deepanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepanshuPratik&count_private=true)
-
+</br>
+<br/>
+  <a href="https://github.com/DeepanshuPratik/github-readme-activity-graph"><img alt="Deepanshu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DeepanshuPratik&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
 <br>

@@ -1,4 +1,4 @@
-[![Upcoming Banner](https://media-exp1.licdn.com/dms/image/C4E16AQF-YdClTtUhMg/profile-displaybackgroundimage-shrink_350_1400/0/1600774582457?e=1628121600&v=beta&t=HN2xs8iRv7SQr4RlzzSs1KrRhnC0CpUfD1K40jqxYWc)](https://DeepanshuPratik.github.io)
+[![Upcoming Banner]](https://DeepanshuPratik.github.io)
 <h1 align="center">Hi 👋, I'm Deepanshu Pratik</h1>
 <h3 align="center">Love to code (limitless). Passionate about coding!</h3>
 

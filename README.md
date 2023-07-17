@@ -4,16 +4,16 @@
 
 <img align="left" src="https://github.com/DeepanshuPratik/DeepanshuPratik/blob/main/octocat-1689601671477.png" width="400px">
 
-## <img align="left" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px"> About Me
+## <img align="left" src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="40px"> About Me
 
-- 🔭 I’m currently working on [CCExtractor](https://github.com/CCExtractor/) as an open source contributor (GSOC).
-- 🌱 I’m currently working at [Karya](https://karya.in/) as a Software Developer.  
-- 👯 I’m looking to collaborate on open-source projects  
-- 🤔 I’m looking forward to just chit-chat. 
-- 💬 Ask me about Android and Linux stuff  
-- 📫 Reach me at: <a href="mailto:deepanshu.pratik@gmail.com">email</a>, <a href="https://instagram.com/deepanshu_pratik">instagram<a/>, <a href="https://www.linkedin.com/in/deepanshu-pratik-41b6641a5/">linkedin<a/>
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: My portfolio is <a href="https://deepanshupratik.github.io/" target="_blank"/>Deepanshu Pratik</a>
+ - 🔭 I’m currently working on [CCExtractor](https://github.com/CCExtractor/) as an open source contributor (GSOC).
+ - 🌱 I’m currently working at [Karya](https://karya.in/) as a Software Developer.  
+ - 👯 I’m looking to collaborate on open-source projects  
+ - 🤔 I’m looking forward to just chit-chat. 
+ - 💬 Ask me about Android and Linux stuff  
+ - 📫 Reach me at: <a href="mailto:deepanshu.pratik@gmail.com">email</a>, <a href="https://instagram.com/deepanshu_pratik">instagram<a/>, <a href="https://www.linkedin.com/in/deepanshu-pratik-41b6641a5/">linkedin<a/>
+ - 😄 Pronouns: He/His
+ - ⚡ Fun fact: My portfolio is <a href="https://deepanshupratik.github.io/" target="_blank"/>Deepanshu Pratik</a>
 
 <p />
 

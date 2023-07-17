@@ -2,7 +2,7 @@
 
 <p>
 
-<img align="left" src="https://user-images.githubusercontent.com/69595691/193453676-3abfe557-1fc1-46d8-8075-3b17b9f54887.gif" width="400px">
+<img align="left" src="https://github.com/DeepanshuPratik/DeepanshuPratik/blob/main/octocat-1689601671477.png" width="400px">
 
 ## <img align="left" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px"> About Me
 
@@ -36,10 +36,9 @@
  </p>
  
  <p align="center">
- <img src="https://github.com/thedroiddiv/thedroiddiv/assets/69595691/ad02e3df-ee1e-436c-9d2a-adad55645b5f" width="200px">
- <img src="https://github.com/thedroiddiv/thedroiddiv/assets/69595691/596b96c1-3d71-4925-accd-efa871909996" width="200px">
- <img src="https://github.com/thedroiddiv/thedroiddiv/assets/69595691/16ecfeb3-fd92-4834-8535-0c5d188ae2d8" width="200px">
- </p>
+ <img src="https://github.com/DeepanshuPratik/DeepanshuPratik/blob/main/readme.gif" width="470px">
+ <img src="https://github.com/DeepanshuPratik/DeepanshuPratik/blob/main/work.gif" width="350px">
+  </p>
 
  <br/>
 <p />

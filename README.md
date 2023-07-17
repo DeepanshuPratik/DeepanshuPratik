@@ -24,7 +24,7 @@
 <p align="center">
 <span><img alt="Deepanshu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DeepanshuPratik&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></span>
  <span><img alt="Deepanshu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepanshuPratik&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></span>
- <span><img src="https://user-images.githubusercontent.com/65576812/183567672-780321f4-eda3-4501-88a8-ea73f9e87d85.gif" width="200px"></span>
+ <span><img src="https://github.com/DeepanshuPratik/DeepanshuPratik/blob/main/404.gif" width="200px"></span>
  </p>
  
  
@@ -32,7 +32,7 @@
  
  <p align="center">
  <span><img alt="DeepanshuPratik's Github Stats" src="https://streak-stats.demolab.com?user=DeepanshuPratik&theme=cobalt&hide_border=true" /></span>
- <span><img src="https://github.com/thedroiddiv/thedroiddiv/assets/69595691/503a78ae-ab13-455f-aeeb-9eccaafa53ee" width="200px"></span>
+ <span><img src="https://github.com/DeepanshuPratik/DeepanshuPratik/blob/main/rocket.gif" width="200px"></span>
  </p>
  
  <p align="center">

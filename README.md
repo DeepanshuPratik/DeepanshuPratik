@@ -31,7 +31,7 @@
  [![Deepanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DeepanshuPratik&bg_color=0d1117&color=00bfc2&line=00696b&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  <p align="center">
- <span><img alt="DeepanshuPratik's Github Stats" src="https://streak-stats.demolab.com?user=DeepanshuPratik&theme=cobalt&hide_border=true" /></span>
+ <span><img alt="DeepanshuPratik's Github Stats" src="https://streak-stats.demolab.com?user=DeepanshuPratik&theme=neon&hide_border=true" /></span>
  <span><img src="https://github.com/DeepanshuPratik/DeepanshuPratik/blob/main/rocket.gif" width="200px"></span>
  </p>
  
